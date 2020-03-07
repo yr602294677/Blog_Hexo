@@ -1,0 +1,8 @@
+class:
+  class_name: 友情链接
+  link_list:
+    1:
+       name: Whale
+       link: https://qisuiyi.top
+       avatar: http://qisuiyi.top/img/avatar.png
+       descr: 永远热泪盈眶
