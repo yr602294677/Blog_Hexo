@@ -101,7 +101,7 @@ google_analytics:
 # Post info settings
 # ---------------
 # avatar: /img/avatar.png
-avatar: http://qisuiyi.top/img/avatar.png
+avatar: http://yr602294677.github.io/img/avatar.png
 # the banner image of index
 top_img: https://i.loli.net/2019/05/22/5ce53eb6dc82757840.jpg
 # 以下鏈接是動態壁紙，每次刷新會更換
@@ -114,7 +114,7 @@ top_img: https://i.loli.net/2019/05/22/5ce53eb6dc82757840.jpg
 default_top_img: https://cdn.jsdelivr.net/gh/jerryc127/CDN/img/top_img_index.jpg
 
 # the default cover of the post
-default_cover: https://www.qisuiyi.top/img/default_blog_index.jpg
+default_cover: https://yr602294677.github.io/img/default_blog_index.jpg
 
 # the banner image of archive page
 archive_img: https://cdn.jsdelivr.net/gh/jerryc127/CDN@latest/Photo/archive.jpg
@@ -252,8 +252,8 @@ Flink:
   headline: 友情链接
   info_headline: 我的Blog资料
   name: Blog 名字： Whale
-  address: Blog 地址： http://www.qisuiyi.top/
-  avatar: Blog 头像： http://qisuiyi.top/img/avatar.png
+  address: Blog 地址： http://www.qiesuiyi.top/
+  avatar: Blog 头像： http://yr602294677.github.io/img/avatar.png
   info: Blog 简介： 热茶冷雨，共我夜话
   comment: 如果需要交换友链，请留言
 
